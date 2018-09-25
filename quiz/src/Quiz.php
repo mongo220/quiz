@@ -1,5 +1,5 @@
 <?php
-class guidedog{
+class Quiz{
 
     private $id;
     private $nome;
